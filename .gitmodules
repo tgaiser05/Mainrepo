@@ -1,0 +1,3 @@
+[submodule "Mainproject/src/submodule"]
+	path = Mainproject/src/submodule
+	url = https://github.com/tgaiser05/Subrepo.git
